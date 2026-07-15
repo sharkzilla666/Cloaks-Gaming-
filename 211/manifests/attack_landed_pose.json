@@ -1,0 +1,15 @@
+{
+  "token_id": 211,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/211/gifs/token_211_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/211/gifs/token_211_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_211_20260601_073352.png",
+  "review": {
+    "token_id": 211,
+    "selected_direction": "left",
+    "confidence": 0.82,
+    "reason": "Side-view row has the clearest landed attack pose, with a strong forward arm extension and stable character identity across all frames, while staying cleanly cropped.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 10606,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/10606/gifs/token_10606_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/10606/gifs/token_10606_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_10606_20260506_154826.png",
+  "review": {
+    "token_id": 10606,
+    "selected_direction": "down",
+    "confidence": 0.78,
+    "reason": "Front-facing row has the clearest, cleanest attack read with stable identity across all three frames and minimal clipping or artifacts.",
+    "model": "gpt-5.5"
+  }
+}

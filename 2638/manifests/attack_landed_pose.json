@@ -1,0 +1,15 @@
+{
+  "token_id": 2638,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/2638/gifs/token_2638_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/2638/gifs/token_2638_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_2638_20260514_190748.png",
+  "review": {
+    "token_id": 2638,
+    "selected_direction": "right",
+    "confidence": 0.92,
+    "reason": "Right row shows a clear, coherent attack sequence with stable character identity and the cleanest full-body crops; the middle frame reads strongly as a landed strike without major clipping or confusion.",
+    "model": "gpt-5.4-mini"
+  }
+}

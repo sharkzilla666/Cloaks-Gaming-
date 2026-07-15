@@ -1,0 +1,15 @@
+{
+  "token_id": 18455,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/18455/gifs/token_18455_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/18455/gifs/token_18455_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_18455_20260506_151915.png",
+  "review": {
+    "token_id": 18455,
+    "selected_direction": "down",
+    "confidence": 0.78,
+    "reason": "The down row reads most clearly as an attack with a visible forward strike, has clean crops, and keeps the character recognizable across the frames.",
+    "model": "gpt-5.5"
+  }
+}

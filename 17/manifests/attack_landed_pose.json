@@ -1,0 +1,15 @@
+{
+  "token_id": 17,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/17/gifs/token_17_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/17/gifs/token_17_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_17_20260515_202756.png",
+  "review": {
+    "token_id": 17,
+    "selected_direction": "left",
+    "confidence": 0.82,
+    "reason": "Clear side lunge punch reads strongest as a landed attack, with clean crops and consistent hooded character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

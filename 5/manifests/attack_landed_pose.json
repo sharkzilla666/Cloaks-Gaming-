@@ -1,0 +1,15 @@
+{
+  "token_id": 5,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/5/gifs/token_5_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/5/gifs/token_5_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_5_20260515_153638.png",
+  "review": {
+    "token_id": 5,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Clear side-view punch with a strong extended middle frame, clean crop, minimal artifacts, and stable hooded character identity across all 3 frames.",
+    "model": "gpt-5.5"
+  }
+}

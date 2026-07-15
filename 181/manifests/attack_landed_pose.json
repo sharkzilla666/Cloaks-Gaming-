@@ -1,0 +1,15 @@
+{
+  "token_id": 181,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/181/gifs/token_181_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/181/gifs/token_181_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_181_20260601_065744.png",
+  "review": {
+    "token_id": 181,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Clear side punch with a strong landed-attack read, clean crop, minimal artifacts, and stable character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

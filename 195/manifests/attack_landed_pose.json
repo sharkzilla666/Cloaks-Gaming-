@@ -1,0 +1,15 @@
+{
+  "token_id": 195,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/195/gifs/token_195_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/195/gifs/token_195_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_195_20260601_071725.png",
+  "review": {
+    "token_id": 195,
+    "selected_direction": "right",
+    "confidence": 0.83,
+    "reason": "Right row has a clear lunging landed attack with visible energy streaks, clean crop, and stable character identity across the three frames.",
+    "model": "gpt-5.5"
+  }
+}

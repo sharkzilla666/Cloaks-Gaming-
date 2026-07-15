@@ -1,0 +1,15 @@
+{
+  "token_id": 1555,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/1555/gifs/token_1555_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/1555/gifs/token_1555_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_1555_20260514_121844.png",
+  "review": {
+    "token_id": 1555,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Left row reads most clearly as a strong attack pose, with a consistent character silhouette across frames and cleaner crops than the others; down is more open but less impactful, and up is too back-facing/confusing.",
+    "model": "gpt-5.4-mini"
+  }
+}

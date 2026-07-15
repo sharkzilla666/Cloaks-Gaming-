@@ -1,0 +1,15 @@
+{
+  "token_id": 222,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/222/gifs/token_222_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/222/gifs/token_222_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_222_20260601_084659.png",
+  "review": {
+    "token_id": 222,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Right row has a clear side-facing lunge/strike in the middle frame, clean crop, minimal artifacts, and the character remains recognizable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

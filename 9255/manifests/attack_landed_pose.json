@@ -1,0 +1,15 @@
+{
+  "token_id": 9255,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/9255/gifs/token_9255_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/9255/gifs/token_9255_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_9255_20260506_152153.png",
+  "review": {
+    "token_id": 9255,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Down row has the clearest attack extension, clean full-body crops, and preserves the cloak/visor identity consistently across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

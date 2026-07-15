@@ -1,0 +1,15 @@
+{
+  "token_id": 48,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/48/gifs/token_48_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/48/gifs/token_48_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_48_20260517_084421.png",
+  "review": {
+    "token_id": 48,
+    "selected_direction": "right",
+    "confidence": 0.85,
+    "reason": "Side lunge punch reads clearly as a strong landed attack, with clean framing and stable cloak/hood identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

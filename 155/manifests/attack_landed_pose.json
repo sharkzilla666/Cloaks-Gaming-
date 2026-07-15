@@ -1,0 +1,15 @@
+{
+  "token_id": 155,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/155/gifs/token_155_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/155/gifs/token_155_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_155_20260529_082306.png",
+  "review": {
+    "token_id": 155,
+    "selected_direction": "down",
+    "confidence": 0.84,
+    "reason": "Front-facing row keeps the character identity most stable, has a clear landed punch/special impact in the middle frame, and avoids clipping or confusing artifacts.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 1329,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/1329/gifs/token_1329_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/1329/gifs/token_1329_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_1329_20260506_154849.png",
+  "review": {
+    "token_id": 1329,
+    "selected_direction": "right",
+    "confidence": 0.84,
+    "reason": "Right row reads most clearly as a landed punch/special with strong forward arm action, clean framing, and stable hooded red character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

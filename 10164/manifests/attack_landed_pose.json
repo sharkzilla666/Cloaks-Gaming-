@@ -1,0 +1,15 @@
+{
+  "token_id": 10164,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/10164/gifs/token_10164_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/10164/gifs/token_10164_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_10164_20260514_124412.png",
+  "review": {
+    "token_id": 10164,
+    "selected_direction": "right",
+    "confidence": 0.93,
+    "reason": "Right row reads clearest as a strong attack: the character identity stays consistent across all 3 frames, the motion is readable, and the middle frame shows a distinct projectile/strike with cleaner cropping than the other directions.",
+    "model": "gpt-5.4-mini"
+  }
+}

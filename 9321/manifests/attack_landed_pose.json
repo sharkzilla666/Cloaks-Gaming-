@@ -1,0 +1,15 @@
+{
+  "token_id": 9321,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/9321/gifs/token_9321_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/9321/gifs/token_9321_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_9321_20260506_152209.png",
+  "review": {
+    "token_id": 9321,
+    "selected_direction": "left",
+    "confidence": 0.83,
+    "reason": "Left row reads most clearly as a landed forward strike/lunge, with stable side-view identity across frames and clean crops with only minor artifacts.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 1897,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/1897/gifs/token_1897_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/1897/gifs/token_1897_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_1897_20260506_151921.png",
+  "review": {
+    "token_id": 1897,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "Right row has the clearest side-view attack sequence with a visible punch/lunge, clean crops, and the most stable character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 116,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/116/gifs/token_116_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/116/gifs/token_116_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_116_20260521_163922.png",
+  "review": {
+    "token_id": 116,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "The right-facing row has the clearest landed punch pose, clean framing with no clipping, and the character identity stays consistent across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

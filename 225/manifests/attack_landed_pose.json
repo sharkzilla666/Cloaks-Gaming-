@@ -1,0 +1,15 @@
+{
+  "token_id": 225,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/225/gifs/token_225_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/225/gifs/token_225_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_225_20260601_084947.png",
+  "review": {
+    "token_id": 225,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Clear side-view lunge with extended attack pose, clean crop, and recognizable cloaked character across frames.",
+    "model": "gpt-5.5"
+  }
+}

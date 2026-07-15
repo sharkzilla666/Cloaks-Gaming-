@@ -1,0 +1,15 @@
+{
+  "token_id": 12718,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/12718/gifs/token_12718_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/12718/gifs/token_12718_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_12718_20260506_154837.png",
+  "review": {
+    "token_id": 12718,
+    "selected_direction": "left",
+    "confidence": 0.78,
+    "reason": "Clearest landed strike with a strong extended-arm attack pose, clean crops, and consistent cloaked character silhouette across frames.",
+    "model": "gpt-5.5"
+  }
+}

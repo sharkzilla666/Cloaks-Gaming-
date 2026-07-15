@@ -1,0 +1,15 @@
+{
+  "token_id": 149,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/149/gifs/token_149_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/149/gifs/token_149_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_149_20260528_155005.png",
+  "review": {
+    "token_id": 149,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "Clear strong lunging swipe, clean crop, and character identity remains stable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

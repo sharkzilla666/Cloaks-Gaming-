@@ -1,0 +1,15 @@
+{
+  "token_id": 206,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/206/gifs/token_206_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/206/gifs/token_206_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_206_20260601_072816.png",
+  "review": {
+    "token_id": 206,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Strongest special-attack read with a clear central slash effect, clean crop, and stable front-facing identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 126,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/126/gifs/token_126_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/126/gifs/token_126_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_126_20260521_220644.png",
+  "review": {
+    "token_id": 126,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Clear side-view lunge punch reads as a strong landed attack, with clean framing and consistent cloaked character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

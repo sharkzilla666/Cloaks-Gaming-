@@ -1,0 +1,15 @@
+{
+  "token_id": 5998,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/5998/gifs/token_5998_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/5998/gifs/token_5998_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_5998_20260514_141143.png",
+  "review": {
+    "token_id": 5998,
+    "selected_direction": "right",
+    "confidence": 0.94,
+    "reason": "The right row is the clearest full attack sequence: all 3 frames show a stable character silhouette with a strong casting/attack effect, clean crop, and minimal clipping. The up/left rows are more fragmented or overly cropped, and down is less dynamic.",
+    "model": "gpt-5.4-mini"
+  }
+}

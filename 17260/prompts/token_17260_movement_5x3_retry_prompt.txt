@@ -1,0 +1,63 @@
+Generate a movement-only RPG sprite sheet for CLOAKS #17260.
+
+Output one character only: CLOAKS #17260.
+
+This is a strict layout retry. The final image must match the movement layout reference image structurally:
+- exactly 3 columns
+- exactly 5 rows
+- exactly 15 visible sprite cells
+- no missing row
+- no extra row
+- no 4-row sheet
+- no attack frames
+- no labels, no text, no grid lines, no watermark
+
+Required row order:
+- Row 0: idle_down_0, idle_down_1, idle_down_hold
+- Row 1: walk_down_0, walk_down_1, walk_down_2
+- Row 2: walk_up_0, walk_up_1, walk_up_2
+- Row 3: walk_left_0, walk_left_1, walk_left_2
+- Row 4: walk_right_0, walk_right_1, walk_right_2
+
+Canvas and clipping requirements:
+- Use a perfectly flat solid #ff00ff chroma-key background.
+- Every cell must have equal spacing and equal scale.
+- Leave clear #ff00ff gutters between frames and around the outside.
+- Keep every sprite fully inside its cell.
+- Do not crop ears, feet, body, cloak, hips, legs, shoulders, headgear, visor, or gear.
+- Keep feet/body anchor near bottom center inside each cell.
+- Do not use #ff00ff inside the sprite.
+
+Style:
+- Use the attached CLOAKS #17260 token image as the identity source.
+- Use the attached style sheet as the style target only.
+- Use the attached 5-row movement sheet as the layout reference only.
+- Crisp pixel art, no blur, no antialiasing.
+- Bold dark outline.
+- Compact chibi RPG proportions.
+- Original fantasy sprite style.
+- Do not revert to procedural/blocky placeholder art.
+
+Directional requirements:
+- Down, up, left, and right rows must be visibly different directions.
+- Up row must show the back of the character with no front-facing eyes.
+- Left and right rows should be side-facing movement poses.
+- Character scale must remain consistent across all rows.
+
+Identity and metadata constraints:
+- Clan: Fire.
+- Cloak: Grey Jacked.
+- Type: Warrior.
+- Headgear: Headdress Lion.
+- Shoulder Gear: Shoulder Armor Silver.
+- Eyewear: Imperial Green.
+- Mouth: Silver Grill.
+- Amulet: Amulet Of Gen.
+- Beard: Black Beard.
+- No Accessory trait: do not add held items, weapons, potions, halos, scythes, swords, or special objects.
+- Preserve the green visor. Do not erase it into the chroma key.
+- Preserve the black face, silver grill mouth, lion headdress, silver shoulder armor, grey cloak, red/fire accents, and amulet.
+
+Critical failure guard:
+- If the sheet would be 4 rows, correct it to 5 rows before final output.
+- The bottom row must contain walk_right_0, walk_right_1, walk_right_2 and all three must show the full body from headgear to feet.

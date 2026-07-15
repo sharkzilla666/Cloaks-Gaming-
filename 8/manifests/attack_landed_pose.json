@@ -1,0 +1,15 @@
+{
+  "token_id": 8,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/8/gifs/token_8_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/8/gifs/token_8_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_8_20260515_165349.png",
+  "review": {
+    "token_id": 8,
+    "selected_direction": "down",
+    "confidence": 0.84,
+    "reason": "Front-facing row keeps the character identity clearest across all frames, with a readable claw strike pose and clean, unclipped crop.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 4005,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/4005/gifs/token_4005_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/4005/gifs/token_4005_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_4005_20260515_141739.png",
+  "review": {
+    "token_id": 4005,
+    "selected_direction": "left",
+    "confidence": 0.88,
+    "reason": "Side-facing lunge punch reads clearly as a landed attack, with clean framing, minimal artifacts, and stable character identity across all 3 frames.",
+    "model": "gpt-5.5"
+  }
+}

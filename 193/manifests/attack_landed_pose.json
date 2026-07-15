@@ -1,0 +1,15 @@
+{
+  "token_id": 193,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/193/gifs/token_193_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/193/gifs/token_193_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_193_20260601_071537.png",
+  "review": {
+    "token_id": 193,
+    "selected_direction": "left",
+    "confidence": 0.82,
+    "reason": "Side lunge frame reads as the strongest clear landed attack, with clean crop and consistent character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

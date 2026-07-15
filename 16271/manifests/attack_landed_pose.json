@@ -1,0 +1,15 @@
+{
+  "token_id": 16271,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/16271/gifs/token_16271_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/16271/gifs/token_16271_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_16271_20260506_151834.png",
+  "review": {
+    "token_id": 16271,
+    "selected_direction": "left",
+    "confidence": 0.78,
+    "reason": "Clear attack progression with a strong extended strike in the middle frame, clean crops, and the character identity stays readable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 16052,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/16052/gifs/token_16052_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/16052/gifs/token_16052_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_16052_20260506_151817.png",
+  "review": {
+    "token_id": 16052,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Right row reads clearly as a landed punch/special move across all three frames, with stable cloak/face identity, good crop, and fewer confusing artifacts than the other directions.",
+    "model": "gpt-5.5"
+  }
+}

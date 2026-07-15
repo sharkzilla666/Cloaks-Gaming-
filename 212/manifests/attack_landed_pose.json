@@ -1,0 +1,15 @@
+{
+  "token_id": 212,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/212/gifs/token_212_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/212/gifs/token_212_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_212_20260601_083604.png",
+  "review": {
+    "token_id": 212,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Clear frontal landed attack pose with strong crouching strike, clean crop, and stable character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

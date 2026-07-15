@@ -1,0 +1,15 @@
+{
+  "token_id": 813,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/813/gifs/token_813_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/813/gifs/token_813_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_813_20260514_102216.png",
+  "review": {
+    "token_id": 813,
+    "selected_direction": "left",
+    "confidence": 0.97,
+    "reason": "Left row reads most clearly as a strong attack: consistent facing, clear forward thrust with the cigar/hand extending, clean crop, and stable character identity across all 3 frames. Up is mostly back-facing and less readable; right has more visual clutter/artifacts.",
+    "model": "gpt-5.4-mini"
+  }
+}

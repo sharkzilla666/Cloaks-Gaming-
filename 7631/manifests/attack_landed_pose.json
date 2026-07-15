@@ -1,0 +1,15 @@
+{
+  "token_id": 7631,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/7631/gifs/token_7631_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/7631/gifs/token_7631_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_7631_20260506_152103.png",
+  "review": {
+    "token_id": 7631,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Clear side-facing punch/special attack with stable character identity across frames, clean crop, and fewer artifacts than the right row.",
+    "model": "gpt-5.5"
+  }
+}

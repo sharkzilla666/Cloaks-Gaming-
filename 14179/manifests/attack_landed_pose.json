@@ -1,0 +1,15 @@
+{
+  "token_id": 14179,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/14179/gifs/token_14179_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/14179/gifs/token_14179_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_14179_20260514_100734.png",
+  "review": {
+    "token_id": 14179,
+    "selected_direction": "left",
+    "confidence": 0.9,
+    "reason": "Left row reads as the cleanest strong attack: clear forward striking pose, stable character identity across frames, and no major clipping or confusing artifacts compared with the other directions.",
+    "model": "gpt-5.4-mini"
+  }
+}

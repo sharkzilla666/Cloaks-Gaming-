@@ -1,0 +1,15 @@
+{
+  "token_id": 19627,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/19627/gifs/token_19627_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/19627/gifs/token_19627_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_19627_20260506_151927.png",
+  "review": {
+    "token_id": 19627,
+    "selected_direction": "left",
+    "confidence": 0.78,
+    "reason": "Left row shows the clearest landed strike with a stable side-facing character, readable arm extension, and cleaner cropping than the more clipped right row.",
+    "model": "gpt-5.5"
+  }
+}

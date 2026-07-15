@@ -1,0 +1,15 @@
+{
+  "token_id": 3935,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/3935/gifs/token_3935_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/3935/gifs/token_3935_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_3935_20260506_152019.png",
+  "review": {
+    "token_id": 3935,
+    "selected_direction": "down",
+    "confidence": 0.84,
+    "reason": "Clear frontal landed-attack read with visible skull face and scythe action across all three frames; clean crop and stable character identity.",
+    "model": "gpt-5.5"
+  }
+}

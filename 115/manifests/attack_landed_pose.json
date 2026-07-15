@@ -1,0 +1,15 @@
+{
+  "token_id": 115,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/115/gifs/token_115_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/115/gifs/token_115_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_115_20260521_163911.png",
+  "review": {
+    "token_id": 115,
+    "selected_direction": "down",
+    "confidence": 0.84,
+    "reason": "Front-facing row keeps the character identity clear and stable, with clean centered crops and a readable scythe attack sequence without clipping or excessive empty space.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 1821,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/1821/gifs/token_1821_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/1821/gifs/token_1821_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_1821_20260515_141613.png",
+  "review": {
+    "token_id": 1821,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Side-view punch reads as the strongest landed attack, with a clear extended strike in the middle frame, clean crop, and stable character silhouette across frames.",
+    "model": "gpt-5.5"
+  }
+}

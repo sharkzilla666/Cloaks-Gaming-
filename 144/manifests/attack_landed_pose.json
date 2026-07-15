@@ -1,0 +1,15 @@
+{
+  "token_id": 144,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/144/gifs/token_144_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/144/gifs/token_144_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_144_20260528_154449.png",
+  "review": {
+    "token_id": 144,
+    "selected_direction": "down",
+    "confidence": 0.9,
+    "reason": "Clear frontal landed slash with visible impact streaks, clean crop, and stable character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

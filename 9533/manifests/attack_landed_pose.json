@@ -1,0 +1,15 @@
+{
+  "token_id": 9533,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/9533/gifs/token_9533_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/9533/gifs/token_9533_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_9533_20260514_133736.png",
+  "review": {
+    "token_id": 9533,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "Right row reads clearest as a strong attack, with a well-formed striking frame, consistent character identity across frames, and cleaner crops than the clipped/fragmented up row.",
+    "model": "gpt-5.4-mini"
+  }
+}

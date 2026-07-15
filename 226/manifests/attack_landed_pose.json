@@ -1,0 +1,15 @@
+{
+  "token_id": 226,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/226/gifs/token_226_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/226/gifs/token_226_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_226_20260601_085102.png",
+  "review": {
+    "token_id": 226,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Clear side-facing slash with strong cyan impact trail, stable character silhouette across frames, and clean crops with minimal clipping or artifacts.",
+    "model": "gpt-5.5"
+  }
+}

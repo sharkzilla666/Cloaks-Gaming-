@@ -1,0 +1,15 @@
+{
+  "token_id": 6952,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/6952/gifs/token_6952_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/6952/gifs/token_6952_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_6952_20260514_175654.png",
+  "review": {
+    "token_id": 6952,
+    "selected_direction": "right",
+    "confidence": 0.97,
+    "reason": "Right row is the clearest landed attack: right_1 shows a strong slash with a clean crop, stable character identity across frames, and fewer artifacts than the clipped/empty alternatives.",
+    "model": "gpt-5.4-mini"
+  }
+}

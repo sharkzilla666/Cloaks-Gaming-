@@ -1,0 +1,15 @@
+{
+  "token_id": 32,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/32/gifs/token_32_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/32/gifs/token_32_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_32_20260515_215619.png",
+  "review": {
+    "token_id": 32,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Front-facing strike reads strongest with a clear impact/slash effect, clean crop, and consistent character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 6,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/6/gifs/token_6_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/6/gifs/token_6_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_6_20260515_163209.png",
+  "review": {
+    "token_id": 6,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Front-facing row has the clearest character identity across all frames, clean crop, and a readable punch/special-attack pose without clipping or confusing artifacts.",
+    "model": "gpt-5.5"
+  }
+}

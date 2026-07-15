@@ -1,0 +1,15 @@
+{
+  "token_id": 11956,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/11956/gifs/token_11956_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/11956/gifs/token_11956_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_11956_20260515_100912.png",
+  "review": {
+    "token_id": 11956,
+    "selected_direction": "down",
+    "confidence": 0.84,
+    "reason": "Front-facing row has the clearest landed strike/special motion, clean crops, and the character identity stays stable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

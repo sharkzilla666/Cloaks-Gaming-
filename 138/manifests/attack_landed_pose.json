@@ -1,0 +1,15 @@
+{
+  "token_id": 138,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/138/gifs/token_138_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/138/gifs/token_138_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_138_20260522_085415.png",
+  "review": {
+    "token_id": 138,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "Clear dynamic lunging strike with strong silhouette, clean crop, and consistent hooded character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

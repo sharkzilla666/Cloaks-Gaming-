@@ -1,0 +1,15 @@
+{
+  "token_id": 145,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/145/gifs/token_145_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/145/gifs/token_145_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_145_20260528_154546.png",
+  "review": {
+    "token_id": 145,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Front-facing row has the clearest stable identity, clean crop, and the middle frame reads well as a strong landed slash without clipping or excessive empty space.",
+    "model": "gpt-5.5"
+  }
+}

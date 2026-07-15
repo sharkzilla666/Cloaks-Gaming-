@@ -1,0 +1,15 @@
+{
+  "token_id": 214,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/214/gifs/token_214_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/214/gifs/token_214_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_214_20260601_083827.png",
+  "review": {
+    "token_id": 214,
+    "selected_direction": "down",
+    "confidence": 0.88,
+    "reason": "Front-facing row has a clear heavy punch impact pose, clean crops, and stable character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

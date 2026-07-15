@@ -1,0 +1,15 @@
+{
+  "token_id": 164,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/164/gifs/token_164_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/164/gifs/token_164_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_164_20260529_083306.png",
+  "review": {
+    "token_id": 164,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Side-facing row reads most clearly as a lunge or strike, with a strong middle impact frame, clean crop, and stable hooded character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

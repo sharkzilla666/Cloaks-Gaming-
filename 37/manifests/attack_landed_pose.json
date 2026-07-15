@@ -1,0 +1,15 @@
+{
+  "token_id": 37,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/37/gifs/token_37_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/37/gifs/token_37_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_37_20260515_231206.png",
+  "review": {
+    "token_id": 37,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Front-facing row keeps identity stable and the middle frame clearly reads as a landed special attack with a visible impact effect; crop is clean with no major clipping.",
+    "model": "gpt-5.5"
+  }
+}

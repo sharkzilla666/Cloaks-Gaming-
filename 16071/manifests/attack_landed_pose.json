@@ -1,0 +1,15 @@
+{
+  "token_id": 16071,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/16071/gifs/token_16071_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/16071/gifs/token_16071_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_16071_20260514_152127.png",
+  "review": {
+    "token_id": 16071,
+    "selected_direction": "right",
+    "confidence": 0.96,
+    "reason": "Right row reads cleanly as a strong attack: the middle frame shows a clear sword slash, the character stays recognizable across frames, and the crop is stable with fewer artifacts than up/left.",
+    "model": "gpt-5.4-mini"
+  }
+}

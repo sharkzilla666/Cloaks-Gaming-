@@ -1,0 +1,15 @@
+{
+  "token_id": 192,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/192/gifs/token_192_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/192/gifs/token_192_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_192_20260601_071422.png",
+  "review": {
+    "token_id": 192,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Strong side lunge with clear extended strike, clean crop, and consistent hooded character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

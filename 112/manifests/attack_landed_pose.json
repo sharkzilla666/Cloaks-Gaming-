@@ -1,0 +1,15 @@
+{
+  "token_id": 112,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/112/gifs/token_112_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/112/gifs/token_112_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_112_20260521_163846.png",
+  "review": {
+    "token_id": 112,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "Clear side punch with a strong extended impact frame, clean crop, and stable hooded character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

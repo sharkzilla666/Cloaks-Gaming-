@@ -1,0 +1,15 @@
+{
+  "token_id": 7718,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/7718/gifs/token_7718_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/7718/gifs/token_7718_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_7718_20260506_152109.png",
+  "review": {
+    "token_id": 7718,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Clear strong punch pose with face/identity visible in most frames, clean crop, and fewer distracting artifacts than the other rows.",
+    "model": "gpt-5.5"
+  }
+}

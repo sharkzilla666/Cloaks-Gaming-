@@ -1,0 +1,15 @@
+{
+  "token_id": 39,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/39/gifs/token_39_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/39/gifs/token_39_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_39_20260515_231427.png",
+  "review": {
+    "token_id": 39,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Clear frontal attack with strong slash effect in the middle frame, clean crop, and stable character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

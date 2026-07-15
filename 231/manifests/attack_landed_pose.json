@@ -1,0 +1,15 @@
+{
+  "token_id": 231,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/231/gifs/token_231_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/231/gifs/token_231_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_231_20260601_085538.png",
+  "review": {
+    "token_id": 231,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Front-facing row has the clearest strong punch impact pose, clean crop, and stable visible character identity across all 3 frames.",
+    "model": "gpt-5.5"
+  }
+}

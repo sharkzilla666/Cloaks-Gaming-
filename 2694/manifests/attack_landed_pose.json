@@ -1,0 +1,15 @@
+{
+  "token_id": 2694,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/2694/gifs/token_2694_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/2694/gifs/token_2694_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_2694_20260506_151942.png",
+  "review": {
+    "token_id": 2694,
+    "selected_direction": "left",
+    "confidence": 0.78,
+    "reason": "Left row reads clearest as a landed side attack with a strong extended strike, clean full-body crops, and reasonably stable cloak/green-face identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

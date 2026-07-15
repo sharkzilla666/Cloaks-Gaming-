@@ -1,0 +1,15 @@
+{
+  "token_id": 11572,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/11572/gifs/token_11572_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/11572/gifs/token_11572_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_11572_20260506_151622.png",
+  "review": {
+    "token_id": 11572,
+    "selected_direction": "left",
+    "confidence": 0.82,
+    "reason": "Left row reads clearly as a forward punch/landed attack, with clean crops, minimal artifacts, and consistent cloaked character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

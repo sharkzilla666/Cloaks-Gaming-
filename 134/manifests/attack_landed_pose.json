@@ -1,0 +1,15 @@
+{
+  "token_id": 134,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/134/gifs/token_134_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/134/gifs/token_134_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_134_20260522_084957.png",
+  "review": {
+    "token_id": 134,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Front-facing row has a clear punch/landed attack in the middle frame, clean crop, and the character identity stays stable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

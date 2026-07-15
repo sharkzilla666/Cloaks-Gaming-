@@ -1,0 +1,15 @@
+{
+  "token_id": 200,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/200/gifs/token_200_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/200/gifs/token_200_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_200_20260601_072155.png",
+  "review": {
+    "token_id": 200,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Clean side-view thrust reads clearly as a landed attack, with stable character identity across frames and minimal artifacts or clipping.",
+    "model": "gpt-5.5"
+  }
+}

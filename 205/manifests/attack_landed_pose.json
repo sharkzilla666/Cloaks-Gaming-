@@ -1,0 +1,15 @@
+{
+  "token_id": 205,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/205/gifs/token_205_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/205/gifs/token_205_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_205_20260601_072710.png",
+  "review": {
+    "token_id": 205,
+    "selected_direction": "down",
+    "confidence": 0.78,
+    "reason": "Front-facing row keeps the character identity clear across all frames and the middle frame reads as a strong close-range landed strike with a clean crop and minimal artifacts.",
+    "model": "gpt-5.5"
+  }
+}

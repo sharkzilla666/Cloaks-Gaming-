@@ -1,0 +1,15 @@
+{
+  "token_id": 15018,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/15018/gifs/token_15018_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/15018/gifs/token_15018_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_15018_20260506_151754.png",
+  "review": {
+    "token_id": 15018,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Clear punch sequence with clean framing, strong character identity, and minimal confusing back-facing or clipped frames.",
+    "model": "gpt-5.5"
+  }
+}

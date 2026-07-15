@@ -1,0 +1,15 @@
+{
+  "token_id": 6445,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/6445/gifs/token_6445_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/6445/gifs/token_6445_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_6445_20260514_142329.png",
+  "review": {
+    "token_id": 6445,
+    "selected_direction": "right",
+    "confidence": 0.93,
+    "reason": "Right row is the cleanest landed-attack set: clear forward strike, strong special-effect read, stable character silhouette across frames, and minimal clipping/artifacts compared with the others.",
+    "model": "gpt-5.4-mini"
+  }
+}

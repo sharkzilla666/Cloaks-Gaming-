@@ -1,0 +1,15 @@
+{
+  "token_id": 8394,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/8394/gifs/token_8394_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/8394/gifs/token_8394_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_8394_20260514_112630.png",
+  "review": {
+    "token_id": 8394,
+    "selected_direction": "left",
+    "confidence": 0.96,
+    "reason": "Left row reads most clearly as a coherent landed attack, with a stable character silhouette across all 3 frames and clean crops; the right row has more visual noise and the up/down rows are less readable as a strong attack.",
+    "model": "gpt-5.4-mini"
+  }
+}

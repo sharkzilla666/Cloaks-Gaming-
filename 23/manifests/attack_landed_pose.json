@@ -1,0 +1,15 @@
+{
+  "token_id": 23,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/23/gifs/token_23_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/23/gifs/token_23_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_23_20260515_210259.png",
+  "review": {
+    "token_id": 23,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Front-facing row preserves identity best, shows a clear impact/slash effect in the middle frame, and has clean uncropped frames with minimal confusion.",
+    "model": "gpt-5.5"
+  }
+}

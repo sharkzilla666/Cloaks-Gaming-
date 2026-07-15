@@ -1,0 +1,15 @@
+{
+  "token_id": 20,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/20/gifs/token_20_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/20/gifs/token_20_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_20_20260515_203134.png",
+  "review": {
+    "token_id": 20,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Side-facing punch reads strongest as a landed attack, with clean crops, no clipping, and consistent cloak/visor identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

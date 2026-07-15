@@ -1,0 +1,15 @@
+{
+  "token_id": 7999,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/7999/gifs/token_7999_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/7999/gifs/token_7999_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_7999_20260506_152129.png",
+  "review": {
+    "token_id": 7999,
+    "selected_direction": "left",
+    "confidence": 0.82,
+    "reason": "Clear punch/special-move read in the middle frame, clean crop, and the character identity stays stable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

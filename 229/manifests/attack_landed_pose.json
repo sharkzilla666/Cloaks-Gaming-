@@ -1,0 +1,15 @@
+{
+  "token_id": 229,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/229/gifs/token_229_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/229/gifs/token_229_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_229_20260601_085352.png",
+  "review": {
+    "token_id": 229,
+    "selected_direction": "down",
+    "confidence": 0.92,
+    "reason": "Clear front-facing special slash with bright attack arc, clean crop, and strong character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

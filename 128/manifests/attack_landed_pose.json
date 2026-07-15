@@ -1,0 +1,15 @@
+{
+  "token_id": 128,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/128/gifs/token_128_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/128/gifs/token_128_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_128_20260521_220901.png",
+  "review": {
+    "token_id": 128,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Front-facing row keeps the character identity clearest across frames, with a readable scythe slash effect and clean crops; other directions have smaller or emptier middle frames.",
+    "model": "gpt-5.5"
+  }
+}

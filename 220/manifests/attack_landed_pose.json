@@ -1,0 +1,15 @@
+{
+  "token_id": 220,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/220/gifs/token_220_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/220/gifs/token_220_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_220_20260601_084501.png",
+  "review": {
+    "token_id": 220,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Clear side-facing lunge reads as a landed attack, with clean full-body crops and stable cloak/skull identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 70,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/70/gifs/token_70_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/70/gifs/token_70_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_70_20260518_181530.png",
+  "review": {
+    "token_id": 70,
+    "selected_direction": "down",
+    "confidence": 0.88,
+    "reason": "Front-facing slash reads clearly as a landed attack, with clean frames and stable character identity across the sequence.",
+    "model": "gpt-5.5"
+  }
+}

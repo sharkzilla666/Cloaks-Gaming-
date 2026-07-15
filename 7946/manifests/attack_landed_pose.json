@@ -1,0 +1,15 @@
+{
+  "token_id": 7946,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/7946/gifs/token_7946_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/7946/gifs/token_7946_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_7946_20260506_152124.png",
+  "review": {
+    "token_id": 7946,
+    "selected_direction": "left",
+    "confidence": 0.78,
+    "reason": "Left row reads most clearly as an attack with a visible punch/strike pose, good crop, and recognizable character identity across frames; up is too dark/back-facing and down is less clear.",
+    "model": "gpt-5.5"
+  }
+}

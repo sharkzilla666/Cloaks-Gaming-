@@ -1,0 +1,15 @@
+{
+  "token_id": 160,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/160/gifs/token_160_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/160/gifs/token_160_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_160_20260529_082831.png",
+  "review": {
+    "token_id": 160,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Side lunge frame reads clearly as a strong landed attack, with clean cropping and consistent helmet/cape identity across the row.",
+    "model": "gpt-5.5"
+  }
+}

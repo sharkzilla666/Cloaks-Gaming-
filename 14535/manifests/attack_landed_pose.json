@@ -1,0 +1,15 @@
+{
+  "token_id": 14535,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/14535/gifs/token_14535_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/14535/gifs/token_14535_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_14535_20260514_193203.png",
+  "review": {
+    "token_id": 14535,
+    "selected_direction": "left",
+    "confidence": 0.92,
+    "reason": "Left reads as the clearest full attack sequence: the swing frame is strong and visible, the character stays stable across frames, and the crop is cleaner than up/right where frames are clipped or fragmented.",
+    "model": "gpt-5.4-mini"
+  }
+}

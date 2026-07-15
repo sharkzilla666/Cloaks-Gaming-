@@ -1,0 +1,15 @@
+{
+  "token_id": 168,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/168/gifs/token_168_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/168/gifs/token_168_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_168_20260529_083800.png",
+  "review": {
+    "token_id": 168,
+    "selected_direction": "left",
+    "confidence": 0.82,
+    "reason": "Left row has the clearest strong lunge/slash attack in the middle frame, clean crop, and the character identity stays stable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

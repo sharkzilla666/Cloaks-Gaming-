@@ -1,0 +1,15 @@
+{
+  "token_id": 5866,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/5866/gifs/token_5866_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/5866/gifs/token_5866_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_5866_20260515_131558.png",
+  "review": {
+    "token_id": 5866,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Front-facing row keeps the character identity clear and stable, with a readable mid-frame axe slash and clean crops without clipping or empty frames.",
+    "model": "gpt-5.5"
+  }
+}

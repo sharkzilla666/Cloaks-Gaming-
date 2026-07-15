@@ -1,0 +1,15 @@
+{
+  "token_id": 167,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/167/gifs/token_167_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/167/gifs/token_167_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_167_20260529_083641.png",
+  "review": {
+    "token_id": 167,
+    "selected_direction": "left",
+    "confidence": 0.78,
+    "reason": "Clear side lunge with visible strike effect, clean crop, and the cloaked character remains recognizable across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

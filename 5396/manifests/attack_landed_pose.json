@@ -1,0 +1,15 @@
+{
+  "token_id": 5396,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/5396/gifs/token_5396_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/5396/gifs/token_5396_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_5396_20260514_124414.png",
+  "review": {
+    "token_id": 5396,
+    "selected_direction": "right",
+    "confidence": 0.94,
+    "reason": "Right reads clearest as a strong attack: the middle frame shows a distinct slash with good visibility, and the 3-frame set is stable and cleanly cropped compared with the more clipped up row.",
+    "model": "gpt-5.4-mini"
+  }
+}

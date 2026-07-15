@@ -1,0 +1,15 @@
+{
+  "token_id": 203,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/203/gifs/token_203_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/203/gifs/token_203_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_203_20260601_072509.png",
+  "review": {
+    "token_id": 203,
+    "selected_direction": "down",
+    "confidence": 0.84,
+    "reason": "Front-facing row has the clearest strong attack pose with a visible sweeping weapon effect, clean crops, and stable character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

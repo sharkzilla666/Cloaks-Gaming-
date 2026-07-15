@@ -1,0 +1,104 @@
+Generate a attack-only RPG sprite sheet for CLOAKS #202.
+
+Output one character only: CLOAKS #202.
+
+Critical output contract:
+Return exactly 12 visible frames arranged as 3 columns x 4 rows. Do not return 9 frames.
+The output is invalid if any requested row is missing, cropped off, or replaced with blank space.
+
+NON-NEGOTIABLE ATTACK GRID CONTRACT:
+- The final image must be one complete 3 columns x 4 rows sprite sheet.
+- Exactly 12 total sprite frames must be visible.
+- All 4 horizontal rows must be present: row 0, row 1, row 2, and row 3.
+- The bottom row must be fully visible inside the square canvas.
+- If the character or attack motion feels too large, shrink every frame uniformly; never omit rows, crop rows, merge rows, or return only 3 rows.
+- A 3x3 sheet is invalid. A partial attack sheet is invalid.
+- Generate on a square 1:1 canvas.
+- Target raw generation size: 1024x1024.
+- Divide the full square canvas into 4 equal-height horizontal bands and 3 equal-width vertical bands.
+- Place one sprite in every cell, centered in its cell, with clear #ff00ff gutters between cells.
+- Row 0: attack_down_0, attack_down_1, attack_down_2
+- Row 1: attack_up_0, attack_up_1, attack_up_2
+- Row 2: attack_left_0, attack_left_1, attack_left_2
+- Row 3: attack_right_0, attack_right_1, attack_right_2
+- The approved attack pose reference is generated/sprite_pipeline/tokens/17442/raw/token_17442_attack_chunk_raw.png. Use it only for attack row discipline, timing, cell spacing, and feet anchors. Do not copy its identity, head, face, ears, cloak colors, or traits.
+
+
+Canvas and clipping requirements:
+- One sprite sheet on a perfectly flat solid #ff00ff chroma-key background.
+- Every cell must be equal size.
+- Leave clear #ff00ff spacing/gutters between frames so frames can be clipped later.
+- Do not draw white divider lines, pale grid lines, borders, cell outlines, guide marks, or separators between frames; gutters must be empty #ff00ff only.
+- Each frame should read as a 48x48-style square tile sprite.
+- Keep feet/body anchor near bottom center inside each cell.
+- Do not crop ears, feet, body, cloak, or gear.
+- No labels, no text, no UI, no border, no watermark.
+- Follow the supplied layout reference for row count, column count, cell spacing, silhouette bounds, and feet anchors only. Do not copy that reference character's identity.
+- Follow the supplied pose example sheet for animation rhythm and row discipline only. The current token image and current token face-lock card override all example-sheet identity details.
+- The original token image and token-specific face-lock card are the identity contract. Preserve the same species, face geometry, eye shape/color/placement, mask or mouth/chin boundary, head silhouette, ears/horns/hood/helmet shape, skin/fur/material color, body type, and signature accessories from the current token.
+- The 17442 movement and attack sheets are layout/pose references only. Never transfer 17442's face, body, cloak colors, species, ears, eyes, or clothing onto the current token.
+- If the current token is non-human, keep it non-human. Do not humanize creature, skull, beast, mask, elemental, or abstract faces; animate that exact character type as a sprite.
+- If the current token is human or humanoid, preserve its exact eye signature from the face-lock reference, especially pupil direction, eye color blocks, visor shape, and asymmetric eye details.
+
+Style:
+- Use the attached token image as the identity source.
+- Use the attached token-specific face-lock reference as the pixel identity contract for face, eyes/visor, mouth/chin, lower mask/face boundary, and headgear silhouette.
+- Use the attached style sheet as the style target only: compact chibi RPG body, coherent limbs, strong silhouette, readable face, simple animation poses, and clean pixel-art proportions.
+- Crisp pixel art.
+- Bold dark outline.
+- Limited palette.
+- Original fantasy sprite style.
+- Do not revert to the old procedural/blocky placeholder look.
+- Do not use #ff00ff inside the sprite.
+- Keep the entire background exactly flat #ff00ff with no gradients, lighting, shadows, or texture.
+- Do not use a shared sample face. The face-lock reference applies only to the token being generated.
+
+Skin color rule:
+- Cloaks skin color is the same everywhere as the face color from the token image and face-lock reference.
+- Apply the token face skin color to every visible skin pixel: face, neck, chest/cleavage area, arms, hands, legs, and any exposed body pixels.
+- Do not use human-flesh tan, peach, beige, or brown skin unless that exact color is the token's face color.
+
+Metadata and accessory rules:
+- Use the CSV visual traits as hard identity constraints.
+- Do not invent missing traits.
+- Only render accessories, held items, weapons, potions, halos, scythes, swords, or other special objects when Accessory is explicitly listed.
+- If Accessory is None, do not add held items, weapons, potions, swords, halos, scythes, or special objects.
+
+Anti-cross-eye pixel rule:
+- For any character with black pupils or black pupil pixels, never mirror the right eye inward.
+- Each visible eye must read as eye-white then black pupil from viewer-left to viewer-right.
+- Correct two-eye pattern: WHITE BLACK / WHITE BLACK.
+- Incorrect crossed-eye pattern: WHITE BLACK / BLACK WHITE.
+- The right eye pupil must sit on the viewer-right side of that eye, not the viewer-left side.
+- This rule applies to human faces, helmets, masks, visors, and any white-eye-with-black-pupil face.
+- Creature types with yellow-only eyes keep their source eye style instead; do not force white eyes onto them.
+
+
+
+
+Directional requirements:
+- Down, up, left, and right rows must be visibly different directions.
+- Up row should show the back of the character; no front-facing eyes on the up row.
+- Left and right rows should be mirrored directional side poses.
+- Character scale must remain consistent across all rows.
+- The final image must contain the exact number of rows and columns listed in the layout. Do not combine, omit, reorder, or add rows.
+- Keep each row centered in its own horizontal band with clear #ff00ff gutters between rows.
+- Each attack row should read as wind-up, strike, recover.
+- Attack frames should use body/arm/claw/magic motion appropriate to the character and listed traits.
+- Do not extend attacks far outside the frame.
+
+
+Identity and metadata constraints:
+Use these CSV visual traits as hard identity constraints for each sprite row.
+The attached visual reference remains the source of pixel likeness, but these traits name the exact objects and features to preserve.
+Do not invent missing traits. If a trait is not listed for a row, do not add it.
+Only render accessories, held items, weapons, potions, halos, scythes, swords, or other special objects when the row explicitly lists an Accessory trait.
+If Accessory is not listed for a row, keep the hands/arms empty except for clothing, armor, cuffs, or other listed non-accessory traits.
+
+Per-row visual trait constraints:
+- Row 1, CLOAKS #202:
+  - Traits: Cloak: Olive Cloak; Type: Wolf; Form: Arctic Wolf; Chest: Battle Vest Red; Accessory: Sword of the Sun.
+  - Accessory rule: Allowed accessory: Sword of the Sun. It may be shown only if it fits the sprite frame and does not obscure identity.
+  - Eye rule: anti-cross-eye rule for black pupils: if white eyes are present, each visible eye must be white pixel then black pupil when read from viewer-left to viewer-right; the full two-eye pattern is WHITE BLACK / WHITE BLACK, never WHITE BLACK / BLACK WHITE; right eye is not mirrored inward.
+  - Preserve the face, mouth/chin, hood/head silhouette, and listed gear from the reference row.
+

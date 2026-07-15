@@ -1,0 +1,15 @@
+{
+  "token_id": 19421,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/19421/gifs/token_19421_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/19421/gifs/token_19421_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_19421_20260514_124408.png",
+  "review": {
+    "token_id": 19421,
+    "selected_direction": "right",
+    "confidence": 0.92,
+    "reason": "right_1 is the clearest strong attack pose with a visible sweeping slash, clean crop, and stable character identity across the row; the other rows are either less dynamic or have empty/clipped frames.",
+    "model": "gpt-5.4-mini"
+  }
+}

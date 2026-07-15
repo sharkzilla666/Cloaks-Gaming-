@@ -1,0 +1,15 @@
+{
+  "token_id": 52,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/52/gifs/token_52_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/52/gifs/token_52_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_52_20260517_091644.png",
+  "review": {
+    "token_id": 52,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Front-facing row reads clearly as a scythe slash with a strong impact arc, clean crop, and consistent character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

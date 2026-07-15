@@ -1,0 +1,15 @@
+{
+  "token_id": 19881,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/19881/gifs/token_19881_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/19881/gifs/token_19881_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_19881_20260514_144616.png",
+  "review": {
+    "token_id": 19881,
+    "selected_direction": "right",
+    "confidence": 0.96,
+    "reason": "Right row reads most clearly as a strong attack, especially right_1 with a clean forward strike and bright impact effect; the frames are stable and less cropped/artifacted than the others.",
+    "model": "gpt-5.4-mini"
+  }
+}

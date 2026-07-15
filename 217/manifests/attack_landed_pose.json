@@ -1,0 +1,15 @@
+{
+  "token_id": 217,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/217/gifs/token_217_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/217/gifs/token_217_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_217_20260601_084201.png",
+  "review": {
+    "token_id": 217,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Clear side punch/lunge reads as a strong landed attack, with clean framing and consistent cloak/visor identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

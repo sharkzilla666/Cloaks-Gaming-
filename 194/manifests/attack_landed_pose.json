@@ -1,0 +1,15 @@
+{
+  "token_id": 194,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/194/gifs/token_194_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/194/gifs/token_194_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_194_20260601_071633.png",
+  "review": {
+    "token_id": 194,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Clear frontal attack with visible pink impact effect, clean centered crop, and stable character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

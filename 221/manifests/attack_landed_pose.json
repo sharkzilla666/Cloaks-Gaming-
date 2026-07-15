@@ -1,0 +1,15 @@
+{
+  "token_id": 221,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/221/gifs/token_221_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/221/gifs/token_221_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_221_20260601_084556.png",
+  "review": {
+    "token_id": 221,
+    "selected_direction": "left",
+    "confidence": 0.86,
+    "reason": "Side-view lunge/punch reads clearly as a landed attack, with clean cropping and stable cloak/hood identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

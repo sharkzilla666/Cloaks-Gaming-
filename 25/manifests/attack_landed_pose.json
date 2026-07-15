@@ -1,0 +1,15 @@
+{
+  "token_id": 25,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/25/gifs/token_25_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/25/gifs/token_25_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_25_20260517_082819.png",
+  "review": {
+    "token_id": 25,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Right row has the clearest attack motion with a strong forward lunge and extended strike, clean crop, and consistent character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

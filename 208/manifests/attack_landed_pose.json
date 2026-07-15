@@ -1,0 +1,15 @@
+{
+  "token_id": 208,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/208/gifs/token_208_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/208/gifs/token_208_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_208_20260601_073021.png",
+  "review": {
+    "token_id": 208,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Clear side-facing lunge attack with strong forward motion, clean crop, and consistent character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

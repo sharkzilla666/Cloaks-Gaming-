@@ -1,0 +1,15 @@
+{
+  "token_id": 76,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/76/gifs/token_76_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/76/gifs/token_76_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_76_20260519_142539.png",
+  "review": {
+    "token_id": 76,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Clear frontal landed punch with face and cloak identity preserved across all frames; clean crop with no clipping or confusing artifacts.",
+    "model": "gpt-5.5"
+  }
+}

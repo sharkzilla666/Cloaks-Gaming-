@@ -1,0 +1,15 @@
+{
+  "token_id": 4288,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/4288/gifs/token_4288_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/4288/gifs/token_4288_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_4288_20260514_131842.png",
+  "review": {
+    "token_id": 4288,
+    "selected_direction": "right",
+    "confidence": 0.88,
+    "reason": "The right row reads most clearly as a strong attack/special: the middle frame shows a clean thrust/slash effect, and the three frames keep the character identity stable with good cropping and minimal artifacts.",
+    "model": "gpt-5.4-mini"
+  }
+}

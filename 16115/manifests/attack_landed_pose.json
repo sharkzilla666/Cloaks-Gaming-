@@ -1,0 +1,15 @@
+{
+  "token_id": 16115,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/16115/gifs/token_16115_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/16115/gifs/token_16115_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_16115_20260506_151826.png",
+  "review": {
+    "token_id": 16115,
+    "selected_direction": "left",
+    "confidence": 0.82,
+    "reason": "Side-facing row reads most clearly as a punch/landed attack, with clean crops and recognizable character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

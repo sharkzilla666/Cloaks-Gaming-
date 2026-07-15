@@ -1,0 +1,15 @@
+{
+  "token_id": 234,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/234/gifs/token_234_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/234/gifs/token_234_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_234_20260601_142549.png",
+  "review": {
+    "token_id": 234,
+    "selected_direction": "down",
+    "confidence": 0.82,
+    "reason": "Strongest and clearest attack read with a bright slash effect, clean crop, and stable character identity across the three frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 96,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/96/gifs/token_96_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/96/gifs/token_96_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_96_20260521_100923.png",
+  "review": {
+    "token_id": 96,
+    "selected_direction": "down",
+    "confidence": 0.88,
+    "reason": "Clear frontal punch with strong impact read, clean crops, and stable character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 83,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/83/gifs/token_83_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/83/gifs/token_83_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_83_20260519_152304.png",
+  "review": {
+    "token_id": 83,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Right row has the clearest landed attack pose, with a strong wing/arm extension in the middle frame, clean crops, and stable bat-like identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

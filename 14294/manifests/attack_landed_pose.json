@@ -1,0 +1,15 @@
+{
+  "token_id": 14294,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/14294/gifs/token_14294_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/14294/gifs/token_14294_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_14294_20260506_151729.png",
+  "review": {
+    "token_id": 14294,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Right row has the clearest punch/lunge impact, clean crops, and consistent hooded character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

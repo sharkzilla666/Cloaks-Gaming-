@@ -1,0 +1,15 @@
+{
+  "token_id": 3610,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/3610/gifs/token_3610_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/3610/gifs/token_3610_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_3610_20260506_152006.png",
+  "review": {
+    "token_id": 3610,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "Clear punch/lunge motion with strong landed-attack read, clean crops, and the character identity stays consistent across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 233,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/233/gifs/token_233_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/233/gifs/token_233_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_233_20260601_142443.png",
+  "review": {
+    "token_id": 233,
+    "selected_direction": "right",
+    "confidence": 0.86,
+    "reason": "Clear side-facing bow attack with strong magic/projectile effect, clean crop, and stable character silhouette across frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 117,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/117/gifs/token_117_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/117/gifs/token_117_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_117_20260521_163933.png",
+  "review": {
+    "token_id": 117,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Clear dynamic lunge reads as a strong landed attack, with clean crop and stable hooded cloak identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

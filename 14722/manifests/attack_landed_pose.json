@@ -1,0 +1,15 @@
+{
+  "token_id": 14722,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/14722/gifs/token_14722_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/14722/gifs/token_14722_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_14722_20260506_151749.png",
+  "review": {
+    "token_id": 14722,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Front-facing row reads most clearly as a strong landed attack, with stable identity, full-body crop, and minimal artifacts across all 3 frames.",
+    "model": "gpt-5.5"
+  }
+}

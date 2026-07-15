@@ -1,0 +1,15 @@
+{
+  "token_id": 105,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/105/gifs/token_105_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/105/gifs/token_105_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_105_20260521_132215.png",
+  "review": {
+    "token_id": 105,
+    "selected_direction": "right",
+    "confidence": 0.84,
+    "reason": "Clear side-facing lunge punch with strong impact read, clean crop, and stable character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

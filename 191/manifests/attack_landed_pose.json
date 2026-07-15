@@ -1,0 +1,15 @@
+{
+  "token_id": 191,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/191/gifs/token_191_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/191/gifs/token_191_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_191_20260601_070725.png",
+  "review": {
+    "token_id": 191,
+    "selected_direction": "down",
+    "confidence": 0.78,
+    "reason": "Clear front-facing strike with strong impact pose, clean crop, and stable character identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

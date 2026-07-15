@@ -1,0 +1,15 @@
+{
+  "token_id": 131,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/131/gifs/token_131_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/131/gifs/token_131_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_131_20260522_084657.png",
+  "review": {
+    "token_id": 131,
+    "selected_direction": "down",
+    "confidence": 0.88,
+    "reason": "Clear frontal slash with visible impact arc, clean crop, and stable character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 174,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/174/gifs/token_174_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/174/gifs/token_174_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_174_20260601_065107.png",
+  "review": {
+    "token_id": 174,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Side lunge reads most clearly as an attack, with a clean crop, minimal artifacts, and consistent cloak/face identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

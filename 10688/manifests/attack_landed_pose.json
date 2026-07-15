@@ -1,0 +1,15 @@
+{
+  "token_id": 10688,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/10688/gifs/token_10688_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/10688/gifs/token_10688_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_10688_20260506_151556.png",
+  "review": {
+    "token_id": 10688,
+    "selected_direction": "down",
+    "confidence": 0.86,
+    "reason": "Clear front-facing punch/special motion with stable character identity, clean crop, and no major clipping or confusing frames.",
+    "model": "gpt-5.5"
+  }
+}

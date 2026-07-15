@@ -1,0 +1,15 @@
+{
+  "token_id": 9798,
+  "status": "ok",
+  "selected_direction": "left",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/9798/gifs/token_9798_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/9798/gifs/token_9798_attack_left.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_9798_20260515_122525.png",
+  "review": {
+    "token_id": 9798,
+    "selected_direction": "left",
+    "confidence": 0.84,
+    "reason": "Side-view lunge with an extended punch reads clearly as a landed attack, with clean framing and consistent hooded character identity across frames.",
+    "model": "gpt-5.5"
+  }
+}

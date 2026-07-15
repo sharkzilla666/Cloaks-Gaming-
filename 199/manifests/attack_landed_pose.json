@@ -1,0 +1,15 @@
+{
+  "token_id": 199,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/199/gifs/token_199_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/199/gifs/token_199_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_199_20260601_072105.png",
+  "review": {
+    "token_id": 199,
+    "selected_direction": "down",
+    "confidence": 0.9,
+    "reason": "Front-facing row has the clearest strong landed attack effect with flames, clean framing, and stable character identity across all frames.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 99,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/99/gifs/token_99_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/99/gifs/token_99_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_99_20260521_103501.png",
+  "review": {
+    "token_id": 99,
+    "selected_direction": "right",
+    "confidence": 0.82,
+    "reason": "Clear side-facing punch with a strong lunge, clean crop, and stable cloaked/visor identity across all three frames.",
+    "model": "gpt-5.5"
+  }
+}

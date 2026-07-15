@@ -1,0 +1,15 @@
+{
+  "token_id": 11783,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/11783/gifs/token_11783_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/11783/gifs/token_11783_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_11783_20260514_140040.png",
+  "review": {
+    "token_id": 11783,
+    "selected_direction": "right",
+    "confidence": 0.95,
+    "reason": "Right row reads most clearly as a strong attack: the middle frame shows a clean forward slash with visible impact effects, the character remains stable across frames, and the crop is much cleaner than the up row while being more dynamic than down.",
+    "model": "gpt-5.4-mini"
+  }
+}

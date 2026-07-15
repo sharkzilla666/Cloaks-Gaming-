@@ -1,0 +1,15 @@
+{
+  "token_id": 72,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/72/gifs/token_72_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/72/gifs/token_72_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_72_20260518_192241.png",
+  "review": {
+    "selected_direction": "down",
+    "confidence": 0.25,
+    "reason": "deterministic fallback preference",
+    "model": "fallback",
+    "ai_error": "Connection error."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 204,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/204/gifs/token_204_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/204/gifs/token_204_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_204_20260601_072613.png",
+  "review": {
+    "token_id": 204,
+    "selected_direction": "right",
+    "confidence": 0.83,
+    "reason": "Strong clear lunging punch with clean crop, visible face/hood identity across frames, and minimal artifacts or clipping.",
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": 14221,
+  "status": "ok",
+  "selected_direction": "right",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/14221/gifs/token_14221_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/14221/gifs/token_14221_attack_right.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_14221_20260506_151719.png",
+  "review": {
+    "token_id": 14221,
+    "selected_direction": "right",
+    "confidence": 0.78,
+    "reason": "Clear aggressive side-view attack with bright flame effects, clean crop, and the character identity stays consistent across frames.",
+    "model": "gpt-5.5"
+  }
+}

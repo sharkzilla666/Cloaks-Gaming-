@@ -1,0 +1,62 @@
+Generate a attack-only RPG sprite sheet for CLOAKS #17442.
+
+Output one character only: CLOAKS #17442.
+
+Canvas and clipping requirements:
+- One sprite sheet on a perfectly flat solid #00ff00 chroma-key background.
+- Every cell must be equal size.
+- Leave clear green spacing/gutters between frames so frames can be clipped later.
+- Each frame should read as a 48x48-style square tile sprite.
+- Keep feet/body anchor near bottom center inside each cell.
+- Do not crop ears, feet, body, cloak, or gear.
+- No labels, no text, no UI, no border, no watermark.
+
+Style:
+- Use the attached token image as the identity source.
+- Use the attached style sheet as the style target only: compact chibi RPG body, coherent limbs, strong silhouette, readable face, simple animation poses, and clean pixel-art proportions.
+- Crisp pixel art.
+- Bold dark outline.
+- Limited palette.
+- Original fantasy sprite style.
+- Do not revert to the old procedural/blocky placeholder look.
+- Do not use #00ff00 inside the sprite.
+
+Metadata and accessory rules:
+- Use the CSV visual traits as hard identity constraints.
+- Do not invent missing traits.
+- Only render accessories, held items, weapons, potions, halos, scythes, swords, or other special objects when Accessory is explicitly listed.
+- If Accessory is None, do not add held items, weapons, potions, swords, halos, scythes, or special objects.
+
+
+Attack chunk layout:
+- Exactly 3 columns x 4 rows.
+- Row 0: attack_down_0, attack_down_1, attack_down_2
+- Row 1: attack_up_0, attack_up_1, attack_up_2
+- Row 2: attack_left_0, attack_left_1, attack_left_2
+- Row 3: attack_right_0, attack_right_1, attack_right_2
+
+
+Directional requirements:
+- Down, up, left, and right rows must be visibly different directions.
+- Up row should show the back of the character; no front-facing eyes on the up row.
+- Left and right rows should be mirrored directional side poses.
+- Character scale must remain consistent across all rows.
+- Each attack row should read as wind-up, strike, recover.
+- Attack frames should use body/arm/claw/magic motion appropriate to the character and listed traits.
+- Do not extend attacks far outside the frame.
+
+
+Identity and metadata constraints:
+Use these CSV visual traits as hard identity constraints for each sprite row.
+The attached visual reference remains the source of pixel likeness, but these traits name the exact objects and features to preserve.
+Do not invent missing traits. If a trait is not listed for a row, do not add it.
+Only render accessories, held items, weapons, potions, halos, scythes, swords, or other special objects when the row explicitly lists an Accessory trait.
+If Accessory is not listed for a row, keep the hands/arms empty except for clothing, armor, cuffs, or other listed non-accessory traits.
+
+Per-row visual trait constraints:
+- Row 1, CLOAKS #17442:
+  - Traits: Type: Wolf; Form: Forest Wolf; Chest: Vest Brown Guard; Shoulder Gear: Tunic Wrap.
+  - Accessory rule: No Accessory trait. Do not add held items, weapons, potions, halos, scythes, swords, or other special objects.
+  - Eye rule: if white eyes are present, use WHITE BLACK / WHITE BLACK; right eye is not mirrored.
+  - Preserve the face, mouth/chin, hood/head silhouette, and listed gear from the reference row.
+

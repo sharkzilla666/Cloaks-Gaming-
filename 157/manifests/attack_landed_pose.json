@@ -1,0 +1,15 @@
+{
+  "token_id": 157,
+  "status": "ok",
+  "selected_direction": "down",
+  "landed_gif_path": "generated/sprite_pipeline/tokens/157/gifs/token_157_attack_landed.gif",
+  "source_gif_path": "generated/sprite_pipeline/tokens/157/gifs/token_157_attack_down.gif",
+  "contact_sheet_path": "generated/sprite_pipeline/qa_contact_sheets/attack_pose_select_157_20260529_082501.png",
+  "review": {
+    "token_id": 157,
+    "selected_direction": "down",
+    "confidence": 0.88,
+    "reason": "Front-facing row keeps the character identity clear across all frames, with a strong readable cloak-swipe attack in the middle and clean, centered crops without clipping.",
+    "model": "gpt-5.5"
+  }
+}
